@@ -1,6 +1,6 @@
-## project for modifying webpages to my liking:
+# project for modifying webpages to my liking:
 
-# usage
+## usage
 install the userscript addon firemonkey (not tested: violentmonkey, greasemonkey, tempermonkey)
 ```
 npm install
@@ -15,7 +15,7 @@ Compiled scripts now available at dist/ and available for browser through the st
 
 
 
-# some interessting project insight
+## some interessting project insight
 - First scripts were developed inside the userscript addon's editor in plain javascript [commit to browse](https://github.com/michmue/userscripts2/tree/53ef8196953afe6a867bba32fc46d1244b2b5e5c)
 - Second 'evolution' was to develop them in javascript inside an ide
 - Third big modification was to switch to typescript for reusable modules which are common inside most scripts to reduce copy/paste for each individual userscript
