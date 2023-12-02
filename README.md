@@ -10,7 +10,7 @@ Compiled scripts now available at dist/ and available for browser through the st
 
 1. Copy paste the whole script e.g. ArbeitsagenturFilter.user.js to a new script in the browser addon.
 2. Copy the 'userscript header' from ArbeitsagenturFilter.user.mts to the addon script at the top.
-3. go to the job searching [Arbeitsagentur.de/jobsuce/suche](https://www.arbeitsagentur.de/jobsuche/suche?berufsfeld=IT-Netzwerktechnik,%20-Administration,%20-Organisation;IT-Systemanalyse,%20-Anwendungsberatung%20und%20-Vertrieb;Informatik;Softwareentwicklung%20und%20Programmierung&angebotsart=1&wo=w%C3%BCrzburg&umkreis=25&sort=entfernung&zeitarbeit=true&id=10000-1196870944-S9)
+3. go to the job searching [Arbeitsagentur.de/jobsuche/suche](https://www.arbeitsagentur.de/jobsuche/suche?berufsfeld=IT-Netzwerktechnik,%20-Administration,%20-Organisation;IT-Systemanalyse,%20-Anwendungsberatung%20und%20-Vertrieb;Informatik;Softwareentwicklung%20und%20Programmierung&angebotsart=1&wo=w%C3%BCrzburg&umkreis=25&sort=entfernung&zeitarbeit=true&id=10000-1196870944-S9)
 
 
 
